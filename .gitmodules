@@ -1,0 +1,3 @@
+[submodule "speech-to-text-backend"]
+	path = speech-to-text-backend
+	url = https://github.com/aayushmishra20/tamil-speech-to-text.git
